@@ -1,5 +1,5 @@
 
-const disneyAPIBaseUrl = "https://api.disneyapi.dev/characters";
+const disneyAPIBaseUrl = "https://api.disneyapi.dev/character";
 const game = document.getElementById('game');
 let firstPick;
 let isPaused = true;
